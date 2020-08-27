@@ -9,22 +9,22 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="http://rungta.ac.in/"> <b>Rungta College of Engineering and Technology</b>, Bhilai, Chhattisgarh</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Medal.gif" width="20px">
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on ** java & python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/she) 🧔
-- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/headbang.gif" width="20vw" /> I’m *looking to collaborate* on ** java & python 🐍 projects**.
+- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
+- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/she) 🧔
+- <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 - 🏳️‍ <a href="http://hardeepkaur.me">Website</a>
 -💻 <a href="https://studentambassadors.microsoft.com/en-US/profile/64558"> Microsoft Student Learn Ambassador</a>
 
@@ -55,15 +55,15 @@
 
 <br>
 
-<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
-# Connect with me<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Handshake.gif" height="32px">
 
 
 
-| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/hardeepkaur0598/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/12828896/hardeep-kaur) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@hardeepkaur.0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:hardeepkaur.0598@gmail.com)
+| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/hardeepkaur0598/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/__Hardeepkaur__) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/hardeep0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/hardeepkaur_0598) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/12828896/hardeep-kaur) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@hardeepkaur.0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:hardeepkaur.0598@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
@@ -81,21 +81,21 @@
 ![Dino](https://github.com/hardeep0598/hardeep0598/blob/master/Assets/dino.gif)
 
 <a href="https://www.linkedin.com/in/hardeepkaur0598/">
-    <img align="left" alt="Hardeep Kaur | Linkedin" width="24px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Hardeep Kaur | Linkedin" width="24px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/__Hardeepkaur__">
-    <img align="left" alt="Hardeep Kaur | Twitter" width="26px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Hardeep Kaur | Twitter" width="26px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/__hardeep_kaur__/">
-    <img align="left" alt="Hardeep Kaur | Instagram" width="24px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Hardeep Kaur | Instagram" width="24px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:hardeepkaur.0598@gmail.com">
-    <img align="left" alt="Hardeep Kaur | Gmail" width="26px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Hardeep Kaur | Gmail" width="26px" src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" />
   </a>
   
   
   
-| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Linkedin.svg" alt="Hardeep Kaur | Linkedin" width="34">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
+| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Hardeep Kaur | Linkedin" width="34">](https://www.linkedin.com/in/hardeepkaur0598/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
 |---|---|---|---|---|---|---|---|
 
 
