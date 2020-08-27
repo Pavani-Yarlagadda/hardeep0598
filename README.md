@@ -25,8 +25,8 @@
 - <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/she) 🧔
 - <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
-- 🏳️‍ <a href="http://hardeepkaur.me">Website</a>
--💻 <a href="https://studentambassadors.microsoft.com/en-US/profile/64558"> Microsoft Student Learn Ambassador</a>
+- 🏳️‍ <a href="http://hardeepkaur.me">**Website**</a>
+-💻 <a href="https://studentambassadors.microsoft.com/en-US/profile/64558">**Microsoft Student Learn Ambassador**</a>
 
 <br>
 
