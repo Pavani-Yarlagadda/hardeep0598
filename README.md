@@ -26,7 +26,8 @@
 - <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/she) 🧔
 - <img alt="GIF" src="https://github.com/hardeep0598/hardeep0598/blob/master/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 - 🏳️‍ <a href="http://hardeepkaur.me">**Website**</a>
--💻 <a href="https://studentambassadors.microsoft.com/en-US/profile/64558">**Microsoft Student Learn Ambassador**</a>
+💻 <a href="https://studentambassadors.microsoft.com/en-US/profile/64558">**Microsoft Student Learn Ambassador**</a>
+
 
 <br>
 
@@ -63,7 +64,7 @@
 
 
 
-| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/hardeepkaur0598/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/__Hardeepkaur__) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/hardeep0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/hardeepkaur_0598) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/12828896/hardeep-kaur) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@hardeepkaur.0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:hardeepkaur.0598@gmail.com)
+| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/hardeepkaur0598/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/__Hardeepkaur__) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/__hardeep_kaur__/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/hardeep0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/hardeepkaur_0598) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/12828896/hardeep-kaur) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@hardeepkaur.0598) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:hardeepkaur.0598@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
