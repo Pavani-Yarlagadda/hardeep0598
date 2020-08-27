@@ -52,7 +52,7 @@
 
 <br>
 
-![Hardeep's github stats](https://github-readme-stats.vercel.app/api?username=hardeep0598&show_icons=true&hide_border=true)
+![Hardeep's github stats] (https://github-readme-stats.vercel.app/api?username=hardeep0598)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
